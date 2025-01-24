@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import SpinningTriangle from '../components/SpinningTriangle.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <SpinningTriangle />
   </main>
 </template>
